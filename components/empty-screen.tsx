@@ -6,7 +6,7 @@ import { IconArrowRight } from '@/components/ui/icons'
 
 const exampleMessages = [
   {
-    heading: 'Explain Ethereum L2 Ecosystem',
+    heading: 'Explain Ethereum L2',
     message: 'What is "Ethereum L2 Ecosystem"? '
   },
   {
@@ -14,7 +14,7 @@ const exampleMessages = [
     message: `What is "Optimism L2 Blockchain"?`
   },
   {
-    heading: 'Code Smart Contract on Optimism',
+    heading: 'Code a Smart Contract',
     message: `Code a "smart contract" for token on optimism L2 Blockchain.`
   }
 ]
