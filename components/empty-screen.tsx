@@ -28,7 +28,7 @@ export function EmptyScreen({ setInput }: Pick<UseChatHelpers, 'setInput'>) {
         </h1>
         <p className="mb-2 leading-normal text-muted-foreground">
           Unleash the real power of Web3 & AI with Optimism AI natively for
-          Optimism L2 Blockchain and It's Huge Ecosystem.
+          Optimism L2 Blockchain and It&apos;s Huge Ecosystem.
         </p>
         <p className="leading-normal text-muted-foreground">
           You can start a conversation here or try the following examples:
