@@ -64,7 +64,7 @@ export async function Header() {
           <span className="hidden ml-2 md:flex">GitHub</span>
         </a>
         <a
-          href="https://twitter.com/0xAsharib/"
+          href="https://twitter.com/optimism_ai"
           target="_blank"
           className={cn(buttonVariants())}
         >
