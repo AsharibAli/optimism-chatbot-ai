@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: `%s - Optimism AI Chatbot`
   },
   description:
-    'Unleash the real power of Web3 & AI with Optimism AI natively for Optimism L2 Blockchain and It&apos;s Huge Ecosystem. ',
+    'Unleash the real power of Web3 & AI with Optimism AI natively for Optimism L2 Blockchain and It&apos;s Ecosystem. ',
   themeColor: [
     { media: '(prefers-color-scheme: light)', color: 'white' },
     { media: '(prefers-color-scheme: dark)', color: 'black' }

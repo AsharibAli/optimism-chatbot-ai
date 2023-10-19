@@ -10,11 +10,11 @@ const exampleMessages = [
     message: 'What is "Ethereum L2 Ecosystem"? '
   },
   {
-    heading: 'Explain Optimism Blockchain',
+    heading: 'Explain Optimism Blockchain!',
     message: `What is "Optimism L2 Blockchain"?`
   },
   {
-    heading: 'Code a Smart Contract',
+    heading: 'Code a Smart Contract.',
     message: `Code a "smart contract" for token on optimism L2 Blockchain.`
   }
 ]
