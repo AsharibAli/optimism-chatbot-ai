@@ -29,7 +29,7 @@
 
 ## Model Providers
 
-This web app ships with OpenAI `gpt-3.5-turbo` as the default. However, thanks to the [Vercel AI SDK](https://sdk.vercel.ai/docs), you can switch LLM providers to [Anthropic](https://anthropic.com), [Hugging Face](https://huggingface.co), or using [LangChain](https://js.langchain.com) with just a few lines of code.
+This web app ships with OpenAI `gpt-3.5-turbo` as the default. thanks to the [Vercel AI SDK](https://sdk.vercel.ai/docs).
 
 
 ## Creating a KV Database Instance
