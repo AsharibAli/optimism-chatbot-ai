@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="#features"><strong>Features</strong></a> ·
-  <a href="#model-providers"><strong>Model Providers</strong></a> ·
   <a href="#running-locally"><strong>Running locally</strong></a> ·
 </p>
 <br/>
@@ -27,10 +26,6 @@
 - Chat History, rate limiting, and session storage with [Vercel KV](https://vercel.com/storage/kv)
 - [NextAuth.js](https://github.com/nextauthjs/next-auth) for authentication
 
-## Model Providers
-
-This web app ships with OpenAI `gpt-3.5-turbo` as the default. thanks to the [Vercel AI SDK](https://sdk.vercel.ai/docs).
-
 
 ## Creating a KV Database Instance
 
@@ -41,7 +36,7 @@ Remember to update your environment variables (`KV_URL`, `KV_REST_API_URL`, `KV_
 
 ## Running locally
 
-You will need to use the environment variables [defined in `.env.example`](.env.example) to run Next.js AI Chatbot. It's recommended you use [Vercel Environment Variables](https://vercel.com/docs/concepts/projects/environment-variables) for this, but a `.env` file is all that is necessary.
+You will need to use the environment variables [defined in `.env.example`](.env.example) to run Optimism AI Chatbot. It's recommended you use [Vercel Environment Variables](https://vercel.com/docs/concepts/projects/environment-variables) for this, but a `.env` file is all that is necessary.
 
 > Note: You should not commit your `.env` file or it will expose secrets that will allow others to control access to your various OpenAI and authentication provider accounts.
 
