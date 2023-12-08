@@ -31,6 +31,9 @@ export function EmptyScreen({ setInput }: Pick<UseChatHelpers, 'setInput'>) {
           Optimism L2 Blockchain and It&apos;s Huge Ecosystem.
         </p>
         <p className="leading-normal text-muted-foreground">
+          (API LIMITS EXCEEDED.)
+        </p>
+        <p className="leading-normal text-muted-foreground">
           You can start a conversation here or try the following examples:
         </p>
         <div className="mt-4 flex flex-col items-start space-y-2">
