@@ -31,7 +31,7 @@ const FlowiseChatbot = () => {
                   textColor: "#303235",
                   showAvatar: true,
                   avatarSrc:
-                    "https://raw.githubusercontent.com/AsharibAli/optimism-chatbot-ai/main/public/logo.png",
+                    "https://raw.githubusercontent.com/AsharibAli/optimism-chatbot-ai/main/public/op.jpg",
                 },
                 userMessage: {
                   backgroundColor: "#3B81F6",
