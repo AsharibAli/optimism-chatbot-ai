@@ -14,6 +14,8 @@
 
 ## Running locally
 
+git clone https://github.com/AsharibAli/optimism-chatbot-ai.git
+cd optimism-chatbot-ai
 ```bash
 npm install
 npm run dev
