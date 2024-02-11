@@ -22,19 +22,19 @@ const FlowiseChatbot = () => {
             theme: {
               chatWindow: {
                 welcomeMessage:
-                  "Hello, I am the Optimism AI chatbot developed by team (Optimism AI)  . My role is to provide information and help developers to build on Optimism L2 chain or Op Stack. How may I assist you today?",
+                  "Hello, I am the Optimism AI chatbot developed by team (Optimism AI). My role is to provide information and help developers to build on Optimism L2 chain or Op Stack. How may I assist you today?",
                 backgroundColor: "#ffffff",
                 fontSize: 16,
                 poweredByTextColor: "#303235",
                 botMessage: {
-                  backgroundColor: "#f7f8ff",
-                  textColor: "#303235",
+                  backgroundColor: "#FF0000                  ",
+                  textColor: "#ffffff",
                   showAvatar: true,
                   avatarSrc:
                     "https://raw.githubusercontent.com/AsharibAli/optimism-chatbot-ai/main/public/op.jpg",
                 },
                 userMessage: {
-                  backgroundColor: "#3B81F6",
+                  backgroundColor: "#000000",
                   textColor: "#ffffff",
                   showAvatar: true,
                   avatarSrc:
@@ -44,7 +44,7 @@ const FlowiseChatbot = () => {
                   placeholder: "Type your question",
                   backgroundColor: "#ffffff",
                   textColor: "#303235",
-                  sendButtonColor: "#3B81F6",
+                  sendButtonColor: "#000000",
                 },
               },
             },
