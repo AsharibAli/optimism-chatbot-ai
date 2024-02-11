@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  An open-source Optimism AI chatbot app built with Next.js, OpenAI Assistans, and FlowiseAI.
+  An open-source Optimism AI chatbot app built with Next.js, OpenAI Assistants, and FlowiseAI.
 </p>
 
 <p align="center">
@@ -14,6 +14,8 @@
 
 ## Running locally
 
+git clone https://github.com/AsharibAli/optimism-chatbot-ai.git
+cd optimism-chatbot-ai
 ```bash
 npm install
 npm run dev
