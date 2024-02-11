@@ -20,6 +20,10 @@ const FlowiseChatbot = () => {
             chatflowid: "50d920d2-cff2-44a8-beb7-d122ae76e763",
             apiHost: "https://flowise-r1c3.onrender.com",
             theme: {
+              button: {
+                backgroundColor: "#FF0000",
+                iconColor: "black",
+              },
               chatWindow: {
                 welcomeMessage:
                   "Hello, I am the Optimism AI chatbot developed by team (Optimism AI). My role is to provide information and help developers to build on Optimism L2 chain or Op Stack. How may I assist you today?",
